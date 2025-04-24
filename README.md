@@ -18,7 +18,7 @@ This is a solution to the **QR code component challenge** on [Frontend Mentor](h
 
 | Desktop view | Mobile view |
 |--------------|-------------|
-| ![Desktop](.images/desktop-design.png) | ![Mobile](images/mobile-design.png) |
+| ![Desktop](images/desktop-design.png) | ![Mobile](images/mobile-design.png) |
 
 ## 🧠 What I Learned
 
@@ -58,7 +58,7 @@ To view this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/qr-code-component.git
+   git clone https://github.com/karina-krupodior/QR-CODE-COMPONENT.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -72,7 +72,7 @@ Check out the live site here: [Live QR Code Component](https://your-live-demo-li
 
 ## ✍️ Author
 
-- GitHub: [@karina-dev](https://github.com/karina-dev)
+- GitHub: https://github.com/karina-krupodior
 
 ## 🙌 Acknowledgments
 
