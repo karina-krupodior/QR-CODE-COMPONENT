@@ -1,0 +1,67 @@
+:root {
+  --color-white: hsl(0, 0%, 100%);
+  --color-slate-300: hsl(212, 45%, 89%);
+  --color-slate-500: hsl(216, 15%, 48%);
+  --color-slate-900: hsl(218, 44%, 22%);
+  --font-family: "Outfit", sans-serif;
+}
+
+body {
+  background-color: var(--color-slate-300);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0; /* Убедись, что у body нет отступов */
+}
+
+.card {
+  border-radius: 20px;
+  background-color: var(--color-white);
+  width: 100%;
+  display: flex;
+  flex-direction: column; /* Важно, чтобы элементы шли по колонке */
+  justify-content: center;
+  align-items: center;
+  max-width: 288px;
+  padding: 16px;
+}
+
+.qa_image {
+  width: 288px;
+  height: 288px;
+  margin-bottom: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.first {
+  color: var(--color-slate-900);
+  font-size: 22px;
+  font-weight: 700;
+  font-family: var(--font-family);
+  text-align: center;
+  margin-bottom: 8px; 
+}
+
+.text_block {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.second {
+  color: var(--color-slate-500);
+  font-size: 15px;
+  font-family: var(--font-family);
+  font-weight: 400;
+  text-align: center;
+  margin-top: 16px;
+  max-width: 100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 256px;
+}
