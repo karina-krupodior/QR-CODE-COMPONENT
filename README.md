@@ -68,7 +68,7 @@ To view this project locally:
 
 ## 🌐 Live Demo
 
-Check out the live site here: [Live QR Code Component](https://your-live-demo-link.com)
+Check out the live site here: https://karina-krupodior.github.io/QR-CODE-COMPONENT/
 
 ## ✍️ Author
 
